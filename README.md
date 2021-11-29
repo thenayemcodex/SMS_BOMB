@@ -20,6 +20,7 @@
 <br>
 
 ### Process / Installation>>>>
+<p><b>Python version 3.10 Required</b></p>
 <p>$ apt update && apt upgrade -y</p>
 <p>$ apt install git -y</p>
 <p>$ pkg install python -y</p>
