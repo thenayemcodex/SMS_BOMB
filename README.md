@@ -20,10 +20,14 @@
 <br>
 
 ### Process / Installation>>>>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noob-Hacker71&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-Hacker71&layout=compact)](https://github.com/Noob-Hacker71/SMS_BOMB)
-<br>
+<h4>$ apt update && apt upgrade -y</h4>
+<h4>$ apt install git -y</h4>
+<h4>$ pkg install python -y</h4>
+<h4>$ git clone https://github.com/Noob-Hacker71/SMS_BOMB.git</h4>
+<h4>$ cd SMS_BOMB</h4>
+<h4>$ python main.py</h4>
+<P>Don't use it for any illigele perpuse.I am not responsible for your Actions 🚫</p>
+
 ## WAITING :
 
 <div align="center">
