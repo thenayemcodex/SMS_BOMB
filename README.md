@@ -20,12 +20,12 @@
 <br>
 
 ### Process / Installation>>>>
-<h4>$ apt update && apt upgrade -y</h4>
-<h4>$ apt install git -y</h4>
-<h4>$ pkg install python -y</h4>
-<h4>$ git clone https://github.com/Noob-Hacker71/SMS_BOMB.git</h4>
-<h4>$ cd SMS_BOMB</h4>
-<h4>$ python main.py</h4>
+<p>$ apt update && apt upgrade -y</p>
+<p>$ apt install git -y</p>
+<p>$ pkg install python -y</p>
+<p>$ git clone <b>https://github.com/Noob-Hacker71/SMS_BOMB.git</b></p>
+<p>$ cd SMS_BOMB</p>
+<p>$ python main.py</p>
 <P>Don't use it for any illigele perpuse.I am not responsible for your Actions 🚫</p>
 
 ## WAITING :
