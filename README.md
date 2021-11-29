@@ -19,10 +19,10 @@
 <li><i>LOVE MY MOM AND DAD 💞</li></i>
 <br>
 
-### LET KNOW ABOUT US>>>>
+### Process / Installation>>>>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noob-Hacker71&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-Hacker71&layout=compact)](https://github.com/Noob-Hacker71)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-Hacker71&layout=compact)](https://github.com/Noob-Hacker71/SMS_BOMB)
 <br>
 ## WAITING :
 
