@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<b><i>100% Working SMS_BOMBER tool</i></b>
+<b><i>100% Working SMS_BOMBER tool. If you want fun with your friends than you can bombing on his/her number . Remember Over is harmful</i></b>
 </div>
 <h2>Join Us for more tool</h2>
 <a href="https://m.me/ntahsan.nayem"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
