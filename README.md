@@ -24,11 +24,13 @@
 <p>$ apt update && apt upgrade -y</p>
 <p>$ apt install git -y</p>
 <p>$ pkg install python -y</p>
+<p>$ pip install requests</p>
+<p>$ pip install mechanize</p>
 <p>$ git clone <b>https://github.com/Noob-Hacker71/SMS_BOMB.git</b></p>
 <p>$ cd SMS_BOMB</p>
 <p>$ python main.py</p>
 <P>Don't use it for any illigele perpuse.I am not responsible for your Actions 🚫</p>
-
+<p><b>Note : Amount 1 = 20, 2 = 40, 3 = 60, 4 = 80, 5 = 100</b></p>
 ## WAITING :
 
 <div align="center">
