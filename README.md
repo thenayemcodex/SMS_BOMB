@@ -26,6 +26,7 @@
 <p>$ pkg install python -y</p>
 <p>$ pip install requests</p>
 <p>$ pip install mechanize</p>
+<p>$ pip install lolcat</p>
 <p>$ git clone <b>https://github.com/Noob-Hacker71/SMS_BOMB.git</b></p>
 <p>$ cd SMS_BOMB</p>
 <p>$ python main.py</p>
